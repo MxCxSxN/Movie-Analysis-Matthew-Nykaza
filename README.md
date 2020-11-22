@@ -1,6 +1,6 @@
 # Movie Data Analysis - Phase 1 Project - Matthew Nykaza
 
-![Movies Picture](/Users/matthewnykaza/Documents/Flatiron/Phase-1-Project/dsc-phase-1-project-online/2ac566bdad689373d124ed45b5b70209.png)
+![Movies Picture](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/tree/master/Images/2ac566bdad689373d124ed45b5b70209.png)
 Format: ![Alt Text](url)
 
 ## Introduction
@@ -36,17 +36,17 @@ This project uses analysis including a review of monetary succes over time and g
 
 ## Recommendations
 
-![Money Made/Lost](/Users/matthewnykaza/Documents/Flatiron/Phase-1-Project/dsc-phase-1-project-online/moneymadevsmoneylost.png)
+![Money Made/Lost](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/tree/master/Images/dsc-phase-1-project-online/moneymadevsmoneylost.png)
 Format: ![Alt Text](url)
  
 Most movies make at least some money (in comparison to their production budgets), but there are a few genres to target, and some to avoid. Animation and Adventure films make money at a 85% and 90% clip respectively. While War and Western films have tended to lose money (41% and 36% made money). 
 
-![Worldwide Gross and Budgets](/Users/matthewnykaza/Documents/Flatiron/Phase-1-Project/dsc-phase-1-project-online/worldwidegrossandbudgetbyseason.png)
+![Worldwide Gross and Budgets](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/tree/master/Images/worldwidegrossandbudgetbyseason.png)
 Format: ![Alt Text](url)
 
 Movies in May, June and July and November tend to make the most money (Worldwide Gross). Production Budget is highly correlated with Worldwide gross. However, there is one slight outlier here that can be taken advantage of. Over the past 10 years the month of June has seen the highest Worldwide Gross, while only being thrid in terms of Production Budget. 
 
-![Commercial Success and Failure by Month](/Users/matthewnykaza/Documents/Flatiron/Phase-1-Project/dsc-phase-1-project-online/commercialsuccessesvsfailuresbymonth.png)
+![Commercial Success and Failure by Month](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/tree/master/Images/commercialsuccessesvsfailuresbymonth.png?raw=true)
 Format: ![Alt Text](url)
 
 The month of November statistically has the most successes (7.0 rating or greater and greater than $110,000,000 in Worldwide Gross) realative to failures. January seems to be a month inwhich very few movies are released, and by far the fewest are major successes. The other months that have realtively good stats on successful movies are May, June and December. 

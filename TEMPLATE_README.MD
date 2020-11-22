@@ -29,13 +29,13 @@ The month of November statistically has the most successes (7.0 rating or greate
 
 ## Visuals
 
-![Money Made/Lost](/Users/matthewnykaza/Documents/Flatiron/Phase-1-Project/dsc-phase-1-project-online/moneymadevsmoneylost.png)
+![Money Made/Lost](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/tree/master/Images/moneymadevsmoneylost.png)
 Format: ![Alt Text](url)
 
-![Worldwide Gross and Budgets](/Users/matthewnykaza/Documents/Flatiron/Phase-1-Project/dsc-phase-1-project-online/worldwidegrossandbudgetbyseason.png)
+![Worldwide Gross and Budgets](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/tree/master/Images/worldwidegrossandbudgetbyseason.png)
 Format: ![Alt Text](url)
 
-![Commercial Success and Failure by Month](/Users/matthewnykaza/Documents/Flatiron/Phase-1-Project/dsc-phase-1-project-online/commercialsuccessesvsfailuresbymonth.png)
+![Commercial Success and Failure by Month](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/tree/master/Images/commercialsuccessesvsfailuresbymonth.png)
 Format: ![Alt Text](url)
 
 ## Conclusion
