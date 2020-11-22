@@ -29,14 +29,12 @@ The month of November statistically has the most successes (7.0 rating or greate
 
 ## Visuals
 
-![Money Made/Lost](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/tree/master/Images/moneymadevsmoneylost.png)
-Format: ![Alt Text](url)
+![Money Made/Lost](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/blob/master/Images/moneymadevsmoneylost.png)
 
-![Worldwide Gross and Budgets](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/tree/master/Images/worldwidegrossandbudgetbyseason.png)
-Format: ![Alt Text](url)
+![Worldwide Gross and Budgets](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/blob/master/Images/worldwidegrossandbudgetbyseason.png)
 
-![Commercial Success and Failure by Month](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/tree/master/Images/commercialsuccessesvsfailuresbymonth.png)
-Format: ![Alt Text](url)
+![Commercial Success and Failure by Month](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/blob/master/Images/commercialsuccessesvsfailuresbymonth.png)
+
 
 ## Conclusion
 

@@ -36,7 +36,7 @@ This project uses analysis including a review of monetary succes over time and g
 
 ## Recommendations
 
-![Money Made/Lost](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/blob/master/Images/dsc-phase-1-project-online/moneymadevsmoneylost.png)
+![Money Made/Lost](https://github.com/MxCxSxN/Movie-Analysis-Matthew-Nykaza/blob/master/Images/moneymadevsmoneylost.png)
 
  
 Most movies make at least some money (in comparison to their production budgets), but there are a few genres to target, and some to avoid. Animation and Adventure films make money at a 85% and 90% clip respectively. While War and Western films have tended to lose money (41% and 36% made money). 
